@@ -12,8 +12,7 @@ sudo add-apt-repository ppa:nextcloud-devs/client
 sudo apt update
 sudo apt-get upgrade
 #INSTALL IT!
-sudo apt-get install anydesk onlyoffice-desktopeditors ssh gdebi okular nextcloud-desktop google-chrome-stable
-sudo apt-get install nextcloud-client 
+sudo apt-get install anydesk onlyoffice-desktopeditors ssh gdebi okular nextcloud-desktop google-chrome-stable ./zoom_amd64.deb
 sudo apt-get install google-chrome-stable
 
 #ZOOM
